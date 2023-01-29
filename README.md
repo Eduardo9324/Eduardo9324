@@ -21,6 +21,8 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - SQL & Sequelize
  - Git & GitHub
  - Visual Studi Code
+ - Trello
+ - Scrum
 
  🌱 what i'm learning right now
  - Python
