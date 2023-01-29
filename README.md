@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Cristian, but you call me Cris; Welcome to my profile :)
+
 <!--
 **Eduardo9324/Eduardo9324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
