@@ -7,6 +7,8 @@ Who i am
 
 Full Stack Developer focused mainly on Backend development, with experience working with JavaScript, NodeJs, Express, React, Redux, PostgrSQL, ORM - Sequelize, and continuous learning of other technologies in the IT sector.
 
+I focus mainly on finding solutions to the internal problems of companies through the use of programming language and knowledge of the structure and internal functioning of the business, since I am also a technologist in business management, with strong knowledge in areas such as economics, strategic planning , environment analysis and project formulation.
+
 
 👩🏻‍🎓 What I've learned so far
  - HTML
