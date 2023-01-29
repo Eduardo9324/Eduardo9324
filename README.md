@@ -16,9 +16,11 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - JavaScript
  - React
  - Redux
- - Node & NPM
+ - NodeJs & NPM
  - Express
  - SQL & Sequelize
+ - Git & GitHub
+ - Visual Studi Code
 
  what i'm learning right now
  - Python
