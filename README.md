@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 Hi, I'm Cristian, but you call me Cris; Welcome to my profile :)
+____________________________________________________________________
+
+Who i am
+
+Full Stack Developer focused mainly on Backend development, with experience working with JavaScript, NodeJs, Express, React, Redux, PostgrSQL, ORM - Sequelize, and continuous learning of other technologies in the IT sector.
 
 <!--
 **Eduardo9324/Eduardo9324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
