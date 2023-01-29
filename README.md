@@ -22,7 +22,7 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - Git & GitHub
  - Visual Studi Code
 
- what i'm learning right now
+ 🌱 what i'm learning right now
  - Python
 
 These are the technologies that I have used so far in the projects that I have worked on, I hope to continue learning much more, and focusing on Backend development, because I am passionate about everything that is related to system security, I really hope to meet many great people from which I can learn a lot.
@@ -31,7 +31,9 @@ ________________________________________________________________________________
 
 🚀 Where I'm headed
 
-Right now my main objective is to continue improving my knowledge of technology and my soft skills to become a more competent professional. In addition, continue deepening in Backend development and doing some personal projects with NodeJs and Python
+Right now my main objective is to continue improving my knowledge of technology and my soft skills to become a more competent professional. In addition, continue deepening in Backend development and doing some personal projects with NodeJs and Python.
+
+Please, if you see that I can or should improve something, contact me, I am always open to positive changes; Thank you !!!
 
 <!--
 **Eduardo9324/Eduardo9324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
