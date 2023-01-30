@@ -37,6 +37,11 @@ Right now my main objective is to continue improving my knowledge of technology 
 
 Please, if you see that I can or should improve something, contact me, I am always open to positive changes; Thank you !!!
 
+.Contact: {
+    cell_phone: +57 3186174252,
+    email: cris122493@gmail.com,
+    }
+
 <!--
 **Eduardo9324/Eduardo9324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
