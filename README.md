@@ -24,8 +24,10 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - Trello
  - Scrum
 
- 🌱 what i'm learning right now
+ 🌱 What i'm learning right now
  - Python
+ - Linux
+ - Amazon Web Services (AWS)
  - Docker
 
 These are the technologies that I have used so far in the projects that I have worked on, I hope to continue learning much more, and focusing on Backend development, because I am passionate about everything that is related to system security, I really hope to meet many great people from which I can learn a lot.
