@@ -26,6 +26,7 @@ I focus mainly on finding solutions to the internal problems of companies throug
 
  🌱 What i'm learning right now
  - Python
+ - Django
  - Linux
  - Amazon Web Services (AWS)
  - Docker
