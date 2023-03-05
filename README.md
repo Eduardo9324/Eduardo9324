@@ -14,18 +14,18 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - HTML
  - CSS
  - JavaScript
+ - Python
  - React
  - Redux
  - NodeJs & NPM
  - Express
- - SQL & Sequelize
+ - SQL, PostgreSQL & Sequelize
  - Git & GitHub
  - Visual Studi Code
  - Trello
  - Scrum
 
  🌱 What i'm learning right now
- - Python
  - Django
  - Linux
  - Amazon Web Services (AWS)
