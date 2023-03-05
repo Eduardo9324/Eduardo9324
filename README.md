@@ -19,7 +19,7 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - Redux
  - NodeJs & NPM
  - Express
- - SQL, PostgreSQL & Sequelize
+ - SQL, PostgreSQL & Sequelize - ORM
  - Git & GitHub
  - Visual Studi Code
  - Trello
