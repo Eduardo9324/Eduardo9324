@@ -14,6 +14,7 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - HTML
  - CSS
  - JavaScript
+ - JSON
  - Python
  - React
  - Redux
