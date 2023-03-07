@@ -23,6 +23,8 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - SQL, PostgreSQL & Sequelize - ORM
  - Git & GitHub
  - Visual Studi Code
+ - Thunder Client
+ - Postman
  - Trello
  - Scrum
 
