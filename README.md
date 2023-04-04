@@ -21,6 +21,7 @@ I focus mainly on finding solutions to the internal problems of companies throug
  - NodeJs & NPM
  - Express
  - SQL, PostgreSQL & Sequelize - ORM
+ - SQLite
  - Git & GitHub
  - Visual Studi Code
  - Thunder Client
